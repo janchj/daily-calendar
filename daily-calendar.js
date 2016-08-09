@@ -6,7 +6,7 @@ var defaults = {
     hoursCount: 13,
     hours: [],
     events: [],
-    pxPerMinute: 1.333333333333333,
+    pxPerMinute: 1.00,
     W: 575,
     template: `<table class="calendar">
                 <tbody>
